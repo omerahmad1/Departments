@@ -159,3 +159,12 @@ git push -u origin main
 scoop bucket add github-gh https://github.com/cli/scoop-gh.git
 --version
 gh  auth login
+git init 
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/omerahmad1/Departmnents.git
+git branch -m master
+git push -u origin master
+gh auth login
+https://github.com/login/device
