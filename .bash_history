@@ -131,3 +131,8 @@ gh auth login
 sudo apt install gh 
 gh auth login
 https://github.com/omerahmad1/git
+git init 
+git add .
+git commit -m "First commit"
+gh repo create Department --public --source=. --remote=upstream --push
+gh auth login
