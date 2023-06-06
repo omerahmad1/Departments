@@ -136,3 +136,26 @@ git add .
 git commit -m "First commit"
 gh repo create Department --public --source=. --remote=upstream --push
 gh auth login
+git init
+git add .
+git commit -m "Commit"
+curl -u omerahmad1 https://api.github.com/user/repos -d '{"name":"Department","private":"false"}'
+git remote add origin https://github.com/omerahmad1/Departments.git
+git branch -M master main
+git branch -r main
+git branch -M main
+git push -u origin main
+arduino  https://github.com/omerahmad1/Departments.git
+git remote set-url origin https://github.com/omeahmad1/Departments.git
+git branch -m main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git clone https://github.com/omerahmad1/Departments.git
+curl -H "Authorization: Bearer ABC" https://api.github.com/endpoint
+git push -u origin main
+git clone https://github.com/username/repo.git
+git push -u origin main
+scoop bucket add github-gh https://github.com/cli/scoop-gh.git
+--version
+gh  auth login
