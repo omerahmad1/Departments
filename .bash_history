@@ -56,3 +56,44 @@ git add spring-Security-Jwt
 sundo apt update
 sudo apt update
 sudo apt install git
+git init
+git remote add origin https://github.com/omerahmad1/employees.git
+git remote add origin https://github.com/omerahmad1/employes.git
+git remote add origin https://github.com/omerahmad1/Department.git
+git add .
+git remote add origin github.com:omerahmad1/Department.git
+git push -u origin master
+git commit  -m "push code in github based on commod line"
+git branch -M  master
+git branch -M  main
+git remote add origin https://github.com/omerahmad1/Department.git
+git push  -u origin main
+git push - u origin main
+git remote add origin https://github.com/omerahmad1/Department.git
+git push - u origin main
+omerahmad1
+git branch -N main
+git push -u origin main
+git push - u origin main
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main 
+git branch -M main
+git push -u origin main
+git config --global credential.helper store
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote set -url origin https://omerahmad1://My-Token@github.com/omer/Department.git
+git remote set-url origin https://omerahmad1://My-Token@github.com/omer/Department.git
+git branch -M main
+git push -u origin main
+git init 
+git commit  -m "My first Commit with commad line"
+git add README.md
+git commit -m "My First commit"
+git commit -a "commmit"
