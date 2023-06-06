@@ -97,3 +97,37 @@ git commit  -m "My first Commit with commad line"
 git add README.md
 git commit -m "My First commit"
 git commit -a "commmit"
+echo "# Departments" >> README.md
+git init
+git commit - m "My first commit"
+git add README.md
+git commit - m "My first commit"
+git commit -m "My first commit"
+git branch -M main
+git remote add origin https://github.com/omerahmad1/Departments.git
+git branch -m main
+git push -u origin main
+git remote set-url origin https://omerahmad1://My-Tokenhttps://github.com/omer/Department.git
+git branch -m main
+git push -u origin main
+git remote set-url origin https://omerahmad1://My-Tokenhttps://github.com/omeahmad1/Departments.git
+git branch -m main 
+git push - u origin main
+git branch -m main 
+git push - u origin main
+git branch -m main 
+git push -u origin main
+https://github.com/omerahmad1/Departments.git
+-bash:  https://github.com/omerahmad1/Departments.git
+https://github.com/omerahmad1/Departments.git
+repo:
+repo:omerahmad1/Departments
+org:github
+user:omerahmad1
+git init 
+git add .
+git commit -m "initail commmit"
+gh auth login
+sudo apt install gh 
+gh auth login
+https://github.com/omerahmad1/git
